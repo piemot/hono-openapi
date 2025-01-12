@@ -3,6 +3,7 @@
   "description": "OpenAPI schema generator for Hono",
   "version": "0.3.1",
   "license": "MIT",
+  "type": "module",
   "keywords": [
     "hono",
     "openapi",
